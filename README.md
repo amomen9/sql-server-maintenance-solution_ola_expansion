@@ -8,8 +8,10 @@
 
 ## Getting Started
 
+Download scripts at [MaintenanceSolution.sql](/MaintenanceSolution.sql).
+
 Download original scripts by <a href="https://ola.hallengren.com/contact.html">Ola Hallengren</a> at [https://ola.hallengren.com/contact.html](https://ola.hallengren.com/downloads.html)
-[MaintenanceSolution.sql](/MaintenanceSolution.sql).
+
 This script creates all the objects and jobs that you need.
 
 You can also download the objects as separate scripts:
