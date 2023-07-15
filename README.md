@@ -33,7 +33,7 @@ Supported versions: SQL Server 2008, SQL Server 2008 R2, SQL Server 2012, SQL Se
 
 [licence badge]:https://img.shields.io/badge/license-MIT-blue.svg
 [stars badge]:https://img.shields.io/github/stars/olahallengren/sql-server-maintenance-solution.svg
-[forks badge]:https://img.shields.io/github/forks/olahallengren/sql-server-maintenance-solution.svg
+[forks badge]:https://img.shields.io/github/forks/amomen9/sql-server-maintenance-solution_ola_expansion.svg
 [issues badge]:https://img.shields.io/github/issues/olahallengren/sql-server-maintenance-solution.svg
 [bug report badge]:https://img.shields.io/github/issues/olahallengren/sql-server-maintenance-solution/Bug%20Report.svg
 [feature request badge]:https://img.shields.io/github/issues/olahallengren/sql-server-maintenance-solution/Feature%20Request.svg
