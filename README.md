@@ -8,7 +8,7 @@
 
 ## Getting Started
 
-Download [MaintenanceSolution.sql](/MaintenanceSolution.sql).
+Download original scripts by Ola Hallengren at [MaintenanceSolution.sql](/MaintenanceSolution.sql).
 This script creates all the objects and jobs that you need.
 
 You can also download the objects as separate scripts:
