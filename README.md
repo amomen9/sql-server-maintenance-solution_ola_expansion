@@ -35,11 +35,11 @@ Supported versions: SQL Server 2019, SQL Server 2022, Azure SQL Database, and Az
 </ul>
 
 [licence badge]:https://img.shields.io/badge/license-MIT-blue.svg
-[stars badge]:https://img.shields.io/github/stars/olahallengren/sql-server-maintenance-solution.svg
-[forks badge]:https://img.shields.io/github/forks/amomen9/sql-server-maintenance-solution_ola_expansion.svg
-[issues badge]:https://img.shields.io/github/issues/olahallengren/sql-server-maintenance-solution.svg
-[bug report badge]:https://img.shields.io/github/issues/olahallengren/sql-server-maintenance-solution/Bug%20Report.svg
-[feature request badge]:https://img.shields.io/github/issues/olahallengren/sql-server-maintenance-solution/Feature%20Request.svg
+<!--[stars badge]:https://img.shields.io/github/stars/amomen9/sql-server-maintenance-solution.svg -->
+<!-- [forks badge]:https://img.shields.io/github/forks/amomen9/sql-server-maintenance-solution_ola_expansion.svg -->
+[issues badge]:https://img.shields.io/github/issues/amomen9/sql-server-maintenance-solution.svg
+[bug report badge]:https://img.shields.io/github/issues/amomen9/sql-server-maintenance-solution/Bug%20Report.svg
+[feature request badge]:https://img.shields.io/github/amomen9/olahallengren/sql-server-maintenance-solution/Feature%20Request.svg
 
 [licence]:https://github.com/olahallengren/sql-server-maintenance-solution/blob/master/LICENSE
 [stars]:https://github.com/olahallengren/sql-server-maintenance-solution/stargazers
