@@ -35,15 +35,15 @@ Supported versions: SQL Server 2019, SQL Server 2022, Azure SQL Database, and Az
 </ul>
 
 [licence badge]:https://img.shields.io/badge/license-MIT-blue.svg
-<!--[stars badge]:https://img.shields.io/github/stars/amomen9/sql-server-maintenance-solution.svg -->
+<!--[stars badge]:https://img.shields.io/github/stars/amomen9/sql-server-maintenance-solution_ola_expansion.svg -->
 <!-- [forks badge]:https://img.shields.io/github/forks/amomen9/sql-server-maintenance-solution_ola_expansion.svg -->
-[issues badge]:https://img.shields.io/github/issues/amomen9/sql-server-maintenance-solution.svg
+[issues badge]:https://img.shields.io/github/issues/amomen9/sql-server-maintenance-solution_ola_expansion.svg
 [bug report badge]:https://img.shields.io/github/issues/amomen9/sql-server-maintenance-solution/Bug%20Report.svg
 [feature request badge]:https://img.shields.io/github/amomen9/olahallengren/sql-server-maintenance-solution/Feature%20Request.svg
 
 [licence]:https://github.com/amomen9/sql-server-maintenance-solution/blob/master/LICENSE
-[stars]:https://github.com/amomen9/sql-server-maintenance-solution/stargazers
-[forks]:https://github.com/amomen9/sql-server-maintenance-solution/network
-[issues]:https://github.com/amomen9/sql-server-maintenance-solution/issues
-[bug report]:https://github.com/amomen9/sql-server-maintenance-solution/issues?q=is%3Aopen+is%3Aissue+label%3A%22Bug+Report%22
-[feature request]:https://github.com/amomen9/sql-server-maintenance-solution/issues?q=is%3Aopen+is%3Aissue+label%3A%22Feature+Request%22
+[stars]:https://github.com/amomen9/sql-server-maintenance-solution_ola_expansion/stargazers
+[forks]:https://github.com/amomen9/sql-server-maintenance-solution_ola_expansion/network
+[issues]:https://github.com/amomen9/sql-server-maintenance-solution_ola_expansion/issues
+[bug report]:https://github.com/amomen9/sql-server-maintenance-solution_ola_expansion/issues?q=is%3Aopen+is%3Aissue+label%3A%22Bug+Report%22
+[feature request]:https://github.com/amomen9/sql-server-maintenance-solution_ola_expansion/issues?q=is%3Aopen+is%3Aissue+label%3A%22Feature+Request%22
