@@ -41,9 +41,3 @@ Supported versions: SQL Server 2019, SQL Server 2022, Azure SQL Database, and Az
 [bug report badge]:https://img.shields.io/github/issues/amomen9/sql-server-maintenance-solution/Bug%20Report.svg
 [feature request badge]:https://img.shields.io/github/amomen9/olahallengren/sql-server-maintenance-solution/Feature%20Request.svg
 
-[licence]:https://github.com/olahallengren/sql-server-maintenance-solution/blob/master/LICENSE
-[stars]:https://github.com/olahallengren/sql-server-maintenance-solution/stargazers
-[forks]:https://github.com/olahallengren/sql-server-maintenance-solution/network
-[issues]:https://github.com/olahallengren/sql-server-maintenance-solution/issues
-[bug report]:https://github.com/olahallengren/sql-server-maintenance-solution/issues?q=is%3Aopen+is%3Aissue+label%3A%22Bug+Report%22
-[feature request]:https://github.com/olahallengren/sql-server-maintenance-solution/issues?q=is%3Aopen+is%3Aissue+label%3A%22Feature+Request%22
