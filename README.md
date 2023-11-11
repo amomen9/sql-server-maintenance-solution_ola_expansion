@@ -10,7 +10,7 @@
 
 Download [MaintenanceSolution.sql](/MaintenanceSolution.sql). This script creates all the objects and jobs that you need.
 
-Download original repository's scripts by <a href="https://ola.hallengren.com/contact.html">Ola Hallengren</a> at [https://ola.hallengren.com/contact.html(https://ola.hallengren.com/downloads.html)](https://github.com/olahallengren/sql-server-maintenance-solution)
+Download original repository's scripts by <a href="https://ola.hallengren.com/downloads.html">Ola Hallengren</a> at [https://ola.hallengren.com/downloads.html](https://github.com/olahallengren/downloads.html)
 
 
 You can also download the objects as separate scripts:
